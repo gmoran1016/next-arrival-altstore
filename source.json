@@ -1,0 +1,25 @@
+{
+  "name": "Next Arrival",
+  "subtitle": "Live and scheduled rail arrivals",
+  "description": "Track upcoming Amtrak, MBTA, and VIA Rail trains from your selected station.",
+  "iconURL": "https://raw.githubusercontent.com/gmoran1016/next-arrival-altstore/main/NextArrivalIcon.png",
+  "tintColor": "#126B91",
+  "apps": [
+    {
+      "name": "Next Arrival",
+      "bundleIdentifier": "com.mrgold1016.nextarrival",
+      "developerName": "Next Arrival",
+      "subtitle": "Know when your next train arrives.",
+      "localizedDescription": "View upcoming arrivals, destinations, service status, and schedules for Amtrak, MBTA, and VIA Rail. Choose a station in the app or configure a station independently for the home screen widget.",
+      "iconURL": "https://raw.githubusercontent.com/gmoran1016/next-arrival-altstore/main/NextArrivalIcon.png",
+      "tintColor": "#126B91",
+      "category": "utilities",
+      "versions": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    }
+  ],
+  "news": []
+}
