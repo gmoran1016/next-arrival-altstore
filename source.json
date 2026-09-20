@@ -14,7 +14,17 @@
       "iconURL": "https://raw.githubusercontent.com/gmoran1016/next-arrival-altstore/main/NextArrivalIcon.png",
       "tintColor": "#126B91",
       "category": "utilities",
-      "versions": [],
+      "versions": [
+        {
+          "version": "1.0",
+          "buildVersion": "1",
+          "date": "2026-09-20T13:20:48Z",
+          "localizedDescription": "Initial AltStore Classic release",
+          "downloadURL": "https://github.com/gmoran1016/next-arrival-altstore/releases/download/v1.0-1/NextArrival.ipa",
+          "size": 3753640,
+          "minOSVersion": "17.0"
+        }
+      ],
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
