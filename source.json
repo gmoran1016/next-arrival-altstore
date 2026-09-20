@@ -17,6 +17,15 @@
       "versions": [
         {
           "version": "1.0",
+          "buildVersion": "2",
+          "date": "2026-09-20T23:38:13Z",
+          "localizedDescription": "Nearby station previews and location-based station discovery",
+          "downloadURL": "https://github.com/gmoran1016/next-arrival-altstore/releases/download/v1.0-2/NextArrival.ipa",
+          "size": 3828736,
+          "minOSVersion": "17.0"
+        },
+        {
+          "version": "1.0",
           "buildVersion": "1",
           "date": "2026-09-20T13:20:48Z",
           "localizedDescription": "Initial AltStore Classic release",
@@ -27,7 +36,9 @@
       ],
       "appPermissions": {
         "entitlements": [],
-        "privacy": {}
+        "privacy": {
+          "NSLocationWhenInUseUsageDescription": "Your location is used to show nearby rail stations within 25 miles."
+        }
       }
     }
   ],
