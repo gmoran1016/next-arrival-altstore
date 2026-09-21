@@ -17,6 +17,15 @@
       "versions": [
         {
           "version": "1.0",
+          "buildVersion": "3",
+          "date": "2026-09-21T00:17:55Z",
+          "localizedDescription": "Improve station picker readability and bump the build number automatically",
+          "downloadURL": "https://github.com/gmoran1016/next-arrival-altstore/releases/download/v1.0-3/NextArrival.ipa",
+          "size": 3832299,
+          "minOSVersion": "17.0"
+        },
+        {
+          "version": "1.0",
           "buildVersion": "2",
           "date": "2026-09-20T23:38:13Z",
           "localizedDescription": "Nearby station previews and location-based station discovery",
